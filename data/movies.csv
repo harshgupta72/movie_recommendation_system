@@ -1,0 +1,101 @@
+movieId,title,genres,imdb_rating,year,director,language
+1,Pathaan,Action|Thriller|Spy,5.9,2023,Siddharth Anand,Hindi
+2,Jawan,Action|Thriller|Drama,6.1,2023,Atlee,Hindi
+3,Animal,Action|Crime|Drama,6.2,2023,Sandeep Reddy Vanga,Hindi
+4,Dunki,Comedy|Drama,6.0,2023,Rajkumar Hirani,Hindi
+5,Tiger 3,Action|Thriller|Spy,5.2,2023,Maneesh Sharma,Hindi
+6,12th Fail,Biography|Drama,9.0,2023,Vidhu Vinod Chopra,Hindi
+7,Sam Bahadur,Biography|Drama|War,7.7,2023,Meghna Gulzar,Hindi
+8,Rocky Aur Rani Kii Prem Kahaani,Comedy|Drama|Romance,6.5,2023,Karan Johar,Hindi
+9,Gadar 2,Action|Drama|Romance,5.5,2023,Anil Sharma,Hindi
+10,OMG 2,Comedy|Drama,7.9,2023,Amit Rai,Hindi
+11,The Kerala Story,Drama|Thriller,7.1,2023,Sudipto Sen,Hindi
+12,Fukrey 3,Comedy,5.8,2023,Mrighdeep Singh Lamba,Hindi
+13,Bhool Bhulaiyaa 2,Comedy|Horror,5.7,2022,Anees Bazmee,Hindi
+14,Brahmastra Part One Shiva,Action|Adventure|Fantasy,5.6,2022,Ayan Mukerji,Hindi
+15,Drishyam 2,Crime|Drama|Mystery,8.3,2022,Abhishek Pathak,Hindi
+16,Gangubai Kathiawadi,Biography|Crime|Drama,7.0,2022,Sanjay Leela Bhansali,Hindi
+17,RRR,Action|Drama|Epic,7.8,2022,S.S. Rajamouli,Telugu
+18,KGF Chapter 2,Action|Crime|Drama,8.3,2022,Prashanth Neel,Kannada
+19,Pushpa The Rise,Action|Crime|Drama,7.6,2021,Sukumar,Telugu
+20,Sooryavanshi,Action|Thriller,5.6,2021,Rohit Shetty,Hindi
+21,83,Biography|Drama|Sport,8.1,2021,Kabir Khan,Hindi
+22,Shershaah,Action|Biography|Drama,8.4,2021,Vishnuvardhan,Hindi
+23,Rocketry The Nambi Effect,Biography|Drama,8.8,2022,R. Madhavan,Hindi
+24,Tanhaji,Action|Biography|Drama,7.4,2020,Om Raut,Hindi
+25,War,Action|Thriller,6.0,2019,Siddharth Anand,Hindi
+26,Kabir Singh,Drama|Romance,7.1,2019,Sandeep Reddy Vanga,Hindi
+27,Uri The Surgical Strike,Action|Drama|War,8.3,2019,Aditya Dhar,Hindi
+28,Gully Boy,Drama|Music,7.9,2019,Zoya Akhtar,Hindi
+29,Super 30,Biography|Drama,7.9,2019,Vikas Bahl,Hindi
+30,Mission Mangal,Drama|History,6.5,2019,Jagan Shakti,Hindi
+31,Chhichhore,Comedy|Drama,8.2,2019,Nitesh Tiwari,Hindi
+32,Andhadhun,Crime|Mystery|Thriller,8.2,2018,Sriram Raghavan,Hindi
+33,Padmaavat,Drama|History|Romance,7.0,2018,Sanjay Leela Bhansali,Hindi
+34,Stree,Comedy|Horror,7.5,2018,Amar Kaushik,Hindi
+35,Raazi,Action|Drama|Thriller,7.8,2018,Meghna Gulzar,Hindi
+36,Sanju,Biography|Drama,7.5,2018,Rajkumar Hirani,Hindi
+37,Dangal,Action|Biography|Drama,8.3,2016,Nitesh Tiwari,Hindi
+38,PK,Comedy|Drama|Fantasy,8.1,2014,Rajkumar Hirani,Hindi
+39,3 Idiots,Comedy|Drama,8.4,2009,Rajkumar Hirani,Hindi
+40,Bajrangi Bhaijaan,Action|Comedy|Drama,8.0,2015,Kabir Khan,Hindi
+41,Sultan,Action|Drama|Sport,7.0,2016,Ali Abbas Zafar,Hindi
+42,Dilwale Dulhania Le Jayenge,Comedy|Drama|Romance,8.0,1995,Aditya Chopra,Hindi
+43,Lagaan,Drama|Musical|Sport,8.1,2001,Ashutosh Gowariker,Hindi
+44,Sholay,Action|Adventure|Comedy,8.1,1975,Ramesh Sippy,Hindi
+45,Rang De Basanti,Drama,8.1,2006,Rakeysh Omprakash Mehra,Hindi
+46,Taare Zameen Par,Drama|Family,8.3,2007,Aamir Khan,Hindi
+47,Zindagi Na Milegi Dobara,Adventure|Comedy|Drama,8.1,2011,Zoya Akhtar,Hindi
+48,Barfi,Comedy|Drama|Romance,8.1,2012,Anurag Basu,Hindi
+49,Queen,Comedy|Drama,8.1,2013,Vikas Bahl,Hindi
+50,Haider,Crime|Drama|Thriller,8.1,2014,Vishal Bhardwaj,Hindi
+51,Tumbbad,Drama|Fantasy|Horror,8.2,2018,Rahi Anil Barve,Hindi
+52,Article 15,Crime|Drama,8.1,2019,Anubhav Sinha,Hindi
+53,Ludo,Comedy|Crime|Drama,7.6,2020,Anurag Basu,Hindi
+54,Mimi,Comedy|Drama,7.7,2021,Laxman Utekar,Hindi
+55,Sardar Udham,Action|Biography|Drama,8.6,2021,Shoojit Sircar,Hindi
+56,Jhund,Drama|Sport,8.2,2022,Nagraj Manjule,Hindi
+57,Darlings,Comedy|Drama|Thriller,6.8,2022,Jasmeet K Reen,Hindi
+58,Monica O My Darling,Comedy|Crime|Mystery,7.1,2022,Vasan Bala,Hindi
+59,Qala,Drama|Music|Thriller,6.8,2022,Anvita Dutt,Hindi
+60,Kantara,Action|Adventure|Drama,8.4,2022,Rishab Shetty,Kannada
+61,Ponniyin Selvan I,Action|Drama|History,7.6,2022,Mani Ratnam,Tamil
+62,Vikram,Action|Crime|Thriller,8.3,2022,Lokesh Kanagaraj,Tamil
+63,Salaar Part 1 Ceasefire,Action|Drama|Thriller,6.4,2023,Prashanth Neel,Telugu
+64,HanuMan,Action|Adventure|Fantasy,8.0,2024,Prasanth Varma,Telugu
+65,Fighter,Action|Drama|Thriller,5.5,2024,Siddharth Anand,Hindi
+66,Crew,Comedy,6.2,2024,Rajesh A Krishnan,Hindi
+67,Shaitaan,Horror|Thriller,7.1,2024,Vikas Bahl,Hindi
+68,Article 370,Drama|Thriller,7.7,2024,Amar Kaushik,Hindi
+69,Teri Baaton Mein Aisa Uljha Jiya,Comedy|Romance|Sci-Fi,5.5,2024,Amit Joshi,Hindi
+70,Laapataa Ladies,Comedy|Drama,8.5,2024,Kiran Rao,Hindi
+71,Amar Prem Ki Prem Kahani,Comedy|Romance,4.8,2024,Hardik Gajjar,Hindi
+72,Bade Miyan Chote Miyan,Action|Comedy|Thriller,4.2,2024,Ali Abbas Zafar,Hindi
+73,Maidaan,Biography|Drama|Sport,7.9,2024,Amit Ravindernath Sharma,Hindi
+74,Srikanth,Biography|Drama,8.3,2024,Tushar Hiranandani,Hindi
+75,Chandu Champion,Biography|Drama|Sport,8.2,2024,Kabir Khan,Hindi
+76,Kalki 2898 AD,Action|Adventure|Sci-Fi,6.8,2024,Nag Ashwin,Telugu
+77,Khel Khel Mein,Comedy|Drama,6.1,2024,Mudassar Aziz,Hindi
+78,Stree 2,Comedy|Horror,7.7,2024,Amar Kaushik,Hindi
+79,Vedaa,Action|Drama|Thriller,6.0,2024,Nikkhil Advani,Hindi
+80,Auron Mein Kahan Dum Tha,Drama|Romance,5.0,2024,Neeraj Pandey,Hindi
+81,Khiladi,Action|Comedy|Thriller,6.0,1992,Abbas Mustan,Hindi
+82,Mr India,Action|Drama|Fantasy,7.7,1987,Shekhar Kapur,Hindi
+83,Kuch Kuch Hota Hai,Comedy|Drama|Romance,7.5,1998,Karan Johar,Hindi
+84,Kabhi Khushi Kabhie Gham,Drama|Musical|Romance,7.4,2001,Karan Johar,Hindi
+85,Dil Chahta Hai,Comedy|Drama|Romance,8.1,2001,Farhan Akhtar,Hindi
+86,Munna Bhai MBBS,Comedy|Drama,8.1,2003,Rajkumar Hirani,Hindi
+87,Swades,Drama,8.2,2004,Ashutosh Gowariker,Hindi
+88,Black,Drama,8.2,2005,Sanjay Leela Bhansali,Hindi
+89,Lage Raho Munna Bhai,Comedy|Drama,8.1,2006,Rajkumar Hirani,Hindi
+90,Chak De India,Drama|Sport,8.2,2007,Shimit Amin,Hindi
+91,Jab We Met,Comedy|Drama|Romance,7.9,2007,Imtiaz Ali,Hindi
+92,A Wednesday,Crime|Drama|Mystery,8.1,2008,Neeraj Pandey,Hindi
+93,Dev D,Drama|Romance,7.8,2009,Anurag Kashyap,Hindi
+94,Wake Up Sid,Comedy|Drama|Romance,7.6,2009,Ayan Mukerji,Hindi
+95,My Name Is Khan,Drama,7.9,2010,Karan Johar,Hindi
+96,Dhobi Ghat,Drama,6.8,2010,Kiran Rao,Hindi
+97,Rockstar,Drama|Music|Romance,7.6,2011,Imtiaz Ali,Hindi
+98,Kahaani,Mystery|Thriller,8.1,2012,Sujoy Ghosh,Hindi
+99,Gangs of Wasseypur,Action|Crime|Drama,8.2,2012,Anurag Kashyap,Hindi
+100,Special 26,Crime|Drama|Thriller,8.0,2013,Neeraj Pandey,Hindi
